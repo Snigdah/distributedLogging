@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /grandchild-service
+  port: 8082
+
+spring:
+  application:
+    name: grandchild

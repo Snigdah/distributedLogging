@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /child-service
+  port: 8081
+
+spring:
+  application:
+    name: child
